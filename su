@@ -1,1 +1,1 @@
-./sugarmaker -a YespowerSugar -o stratum+tcp://1pool.sugarchain.org:3333 -u sugar1qukazg5eanz2e3myahhfrj8v7wwphk0m9uzgud9 -t8
+./ufo -a YespowerSugar -o stratum+tcp://1pool.sugarchain.org:3333 -u sugar1qukazg5eanz2e3myahhfrj8v7wwphk0m9uzgud9 -t8
